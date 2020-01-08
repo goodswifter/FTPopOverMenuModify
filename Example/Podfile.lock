@@ -1,0 +1,16 @@
+PODS:
+  - FTPopOverMenuModify (0.1.0)
+
+DEPENDENCIES:
+  - FTPopOverMenuModify (from `../`)
+
+EXTERNAL SOURCES:
+  FTPopOverMenuModify:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FTPopOverMenuModify: df13f850de5a08efd01d4f221481a6fa24865b91
+
+PODFILE CHECKSUM: 2f4610e3256f0069391801c27ef08e29c84cd44b
+
+COCOAPODS: 1.9.0.beta.2

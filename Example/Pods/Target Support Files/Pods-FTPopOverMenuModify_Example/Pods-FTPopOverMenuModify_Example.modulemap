@@ -1,0 +1,6 @@
+framework module Pods_FTPopOverMenuModify_Example {
+  umbrella header "Pods-FTPopOverMenuModify_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module FTPopOverMenuModify {
+  umbrella header "FTPopOverMenuModify-umbrella.h"
+
+  export *
+  module * { export * }
+}
