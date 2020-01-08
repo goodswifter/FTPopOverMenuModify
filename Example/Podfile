@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FTPopOverMenuModify_Example' do
+  pod 'FTPopOverMenuModify', :path => '../'
+
+  target 'FTPopOverMenuModify_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
